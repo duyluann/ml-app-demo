@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+# [1.1.0](https://github.com/duyluann/ml-app-demo/compare/v1.0.0...v1.1.0) (2024-12-17)
+
+
+### Features
+
+* update model ([5d87ca4](https://github.com/duyluann/ml-app-demo/commit/5d87ca47c932d514fa2588920d0d34d0bbe33a86))
+* update model workflow ([cec6559](https://github.com/duyluann/ml-app-demo/commit/cec6559b8306b6df33045eb3e2131864fd24051c))
+
 # 1.0.0 (2024-12-17)
 
 
