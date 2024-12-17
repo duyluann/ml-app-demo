@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# 1.0.0 (2024-12-17)
+
+
+### Features
+
+* fastAPI app ([744b5fd](https://github.com/duyluann/ml-app-demo/commit/744b5fdeae32108bbeec27a5516818b8285a7a42))
+
 # [1.5.0](https://github.com/duyluann/github-repo-template/compare/v1.4.0...v1.5.0) (2024-09-22)
 
 
