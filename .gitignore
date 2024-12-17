@@ -24,6 +24,8 @@ coverage/*
 
 # Local settings
 .env
+venv/
+env/
 
 # Personal files
 README.personal.md
